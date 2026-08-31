@@ -1,0 +1,7 @@
+.history/
+
+__pycache__/
+*.pyc
+
+.env
+ai-attendance-project-app-main/.streamlit/secrets.toml
